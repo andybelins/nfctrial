@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Message</title>
+    <script>
+        setTimeout(function() {
+            window.location.href = "https://open.spotify.com/playlist/2Ol6EIw8ClCjcNHGacrbPk?si=oTw6SjbBR8KPaxrrmQfjcA&pi=sV5VvzE7TFuLO&nd=1&dlsi=74e4a80d7d4c49d3";
+        }, 5000); // Redirect after 5 seconds
+    </script>
+</head>
+<body>
+    <h1>Hello! Here's a message for you:</h1>
+    <p>Check out this awesome link!</p>
+    <p>Redirecting you in 5 seconds...</p>
+</body>
+</html>
